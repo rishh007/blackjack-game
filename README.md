@@ -1,4 +1,4 @@
-# Blackjack Game 🃏
+# Blackjack Game ♠️♦️
 
 A simple console-based Blackjack game implemented in Python. This game allows you to play against the computer, dealing cards, calculating scores, and determining the winner based on the rules of Blackjack.
 
